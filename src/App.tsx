@@ -4,6 +4,7 @@
 import Alert from "./components/Alert";
 import Button from "./components/Button";
 import { useState } from "react";
+import ThreeColumns from "./components/ThreeColumns";
 
 // let items = ["New York", "Los Angeles", "Chicago", "Houston"];
 // const handleSelectedItem = (item: string) => {
